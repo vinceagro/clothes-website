@@ -1,2 +1,1 @@
-# clothes-shop
 # clothes-website
